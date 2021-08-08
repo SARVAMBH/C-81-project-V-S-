@@ -1,0 +1,24 @@
+h1
+{
+	color:darkblue; 
+	font-size: 40px;
+	background-color:lightsalmon;
+	font-style: normal;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-weight: 700;
+	text-decoration-line: underline;
+	text-decoration-style: dashed;
+	text-decoration-color: darkmagenta;
+}
+.body_background {
+	background-image: url("ol.jpg");
+	background-position: center;
+	background-size:cover;
+}
+
+#myCanvas{
+border-width:10px;
+border-color:white;
+border-style:ridge;
+background-color:white;
+}
